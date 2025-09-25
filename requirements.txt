@@ -1,0 +1,11 @@
+# Core dependencies for stiffness sensor project
+pyserial>=3.5
+numpy>=1.21.0
+nidaqmx>=0.6.0
+opencv-python>=4.5.0
+
+# Optional but recommended
+matplotlib>=3.5.0
+scipy>=1.7.0
+
+
